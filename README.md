@@ -26,4 +26,4 @@ I'm currently a school student with a strong interest in technology, programming
 ## 📚 Philosophy
 I believe that growth comes from curiosity, consistency, and continuous learning. Every project, challenge, and new concept is an opportunity to improve and move one step closer to my goals.
 
-> Dream. Learn. Build. Repeat. 🚀
+> Learn. Build. Repeat. 🚀
