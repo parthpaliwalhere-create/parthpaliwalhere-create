@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Parth
 
+PARTH PALIWAL
+
+Building Projects and Exploring Technology
+
 🚀 Student Developer | Learning Technologies | Aspiring Software Engineer
 
 Grade 9 student passionate about technology, programming, and problem-solving.
