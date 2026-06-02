@@ -46,10 +46,4 @@ Focused on building projects, learning new technologies, and turning ideas into 
 >
 > — Albert Einstein
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthpaliwalhere-create&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthpaliwalhere-create&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=parthpaliwalhere-create&theme=tokyonight" />
