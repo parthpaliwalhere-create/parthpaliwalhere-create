@@ -4,6 +4,14 @@
 
 I'm a Grade 9 student passionate about technology, programming, and problem-solving. I enjoy building projects, learning new technologies, and turning ideas into reality through code.
 
+## 🚀 Featured Projects
+
+- 🎮 Python Games
+- 📋 Contact Book
+- ✅ To-Do List App
+- 🖥️ Digital Clock GUI
+- 🌐 BTRC Website
+  
 ##  💻 Tech Stack :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
