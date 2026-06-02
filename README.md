@@ -3,14 +3,6 @@
 🚀 Student Developer | Python Learner | Aspiring Software Engineer
 
 I'm a Grade 9 student passionate about technology, programming, and problem-solving. I enjoy building projects, learning new technologies, and turning ideas into reality through code.
-
-## 🚀 Featured Projects
-
-- 🎮 Python Games
-- 📋 Contact Book
-- ✅ To-Do List App
-- 🖥️ Digital Clock GUI
-- 🌐 BTRC Website
   
 ##  💻 Tech Stack :
 
@@ -26,6 +18,14 @@ I'm a Grade 9 student passionate about technology, programming, and problem-solv
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthpaliwalhere-create)
+
+## 🚀 Featured Projects
+
+- 🎮 Python Games
+- 📋 Contact Book
+- ✅ To-Do List App
+- 🖥️ Digital Clock GUI
+- 🌐 BTRC Website
 
 ## 💭 Quote :
 
