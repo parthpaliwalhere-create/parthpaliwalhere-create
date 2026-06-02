@@ -21,6 +21,4 @@ I'm a Grade 9 student passionate about technology, programming, and problem-solv
 
 ## 💭 Quote :
 
-> "The best way to learn programming is by building projects."
-🚀 Learn. Build. Improve. Repeat.
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
