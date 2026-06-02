@@ -4,14 +4,14 @@
 
 I'm a Grade 9 student passionate about technology, programming, and problem-solving. I enjoy building projects, exploring new technologies, and learning by creating real applications.
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Python
 * HTML & CSS
 * Git & GitHub
 * Software Development Fundamentals
 
-## 🛠 Projects
+##  Projects
 
 * 🎮 Python Games
 * 📋 Contact Book
