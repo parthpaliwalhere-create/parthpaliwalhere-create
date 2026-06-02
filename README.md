@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer and Student Developer
 
-I'm currently a school student with a strong interest in technology, programming, and continuous learning. I enjoy exploring new concepts, building projects, and understanding how software works behind the scenes.
+I'm currently a school student who studies in grade 9, with a strong interest in technology, programming, and continuous learning. I enjoy exploring new concepts, building projects, and understanding how software works behind the scenes.
 
 ## 🌱 What I'm Doing
 - Learning new technologies and development skills
