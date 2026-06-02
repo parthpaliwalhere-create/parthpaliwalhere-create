@@ -19,20 +19,20 @@ I'm a Grade 9 student passionate about technology, programming, and problem-solv
 * 🖥️ Digital Clock GUI
 * 🌐 BTRC Website
 
-## 🎯 Goals
+##  Goals
 
 * Become a skilled software engineer
 * Build impactful and meaningful projects
 * Continuously improve my technical skills
 * Learn modern software and web development
 
-## 💡 Interests
+##  Interests
 
 * Software Development
 * Web Technologies
 * Technology & Innovation
 * Entrepreneurship
 
-## 📚 Philosophy
+##  Philosophy
 
 > Learn. Build. Improve. Repeat. 🚀
