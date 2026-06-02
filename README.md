@@ -21,4 +21,4 @@ I'm a Grade 9 student passionate about technology, programming, and problem-solv
 
 ## 💭 Quote :
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It's%20not%20that%20I'm%20so%20smart,%20it's%20just%20that%20I%20stay%20with%20problems%20longer.&author=Albert%20Einstein)
