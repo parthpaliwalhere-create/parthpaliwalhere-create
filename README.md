@@ -1,9 +1,11 @@
-#  👋 Hi, I'm Parth
+# 👋 Hi, I'm Parth
 
 🚀 Student Developer | Python Learner | Aspiring Software Engineer
 
-I'm a Grade 9 student passionate about technology, programming, and problem-solving. I enjoy building projects, learning new technologies, and turning ideas into reality through code.
-  
+Grade 9 student passionate about technology, programming, and problem-solving.
+
+Focused on building projects, learning new technologies, and turning ideas into reality through code.
+
 ##  💻 Tech Stack :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
