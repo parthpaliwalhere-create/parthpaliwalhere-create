@@ -21,7 +21,14 @@ Focused on building projects, learning new technologies, and turning ideas into 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthpaliwalhere-create)
 
-## 🚀 Featured Projects
+## 🌱 Currently Learning
+
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- Software Development Fundamentals
+
+## 🚀 Featured Projects :
 
 - 🎮 Python Games
 - 📋 Contact Book
@@ -31,4 +38,12 @@ Focused on building projects, learning new technologies, and turning ideas into 
 
 ## 💭 Quote :
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It's%20not%20that%20I'm%20so%20smart,%20it's%20just%20that%20I%20stay%20with%20problems%20longer.&author=Albert%20Einstein)
+> "It's not that I'm so smart, it's just that I stay with problems longer."
+>
+> — Albert Einstein
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthpaliwalhere-create&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthpaliwalhere-create&layout=compact&theme=tokyonight)
