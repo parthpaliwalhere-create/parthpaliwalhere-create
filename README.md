@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parth
 
-🚀 Student Developer | Python Learner | Aspiring Software Engineer
+🚀 Student Developer | Learning Technologies | Aspiring Software Engineer
 
 Grade 9 student passionate about technology, programming, and problem-solving.
 
