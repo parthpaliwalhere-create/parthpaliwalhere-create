@@ -27,9 +27,10 @@ Focused on building projects, learning new technologies, and turning ideas into 
 
 ## 🌱 Currently Learning
 
-- Git & GitHub
+- Python
 - HTML & CSS
 - JavaScript
+- Web Development Fundamentals
 - Software Development Fundamentals
 
 ## 🚀 Featured Projects :
